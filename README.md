@@ -1,4 +1,4 @@
-✨<h1 align="center">Welcome to my Git Profile</h1>✨
+<h1 align="center">✨Welcome to my Git Profile✨</h1>
 
 ## ✨My current goals
 
