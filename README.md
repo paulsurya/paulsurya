@@ -32,7 +32,11 @@ I build clean, data-driven applications with a love for good design. Currently e
 
 ## 🥅 Current Goals
 
-> *(Update this section with your current learning or career goals!)*
+> 🚀 Ship working MVPs of Stock Sensei & NumuS App — real users, real feedback
+> 🏗️ Level up in system design & scalable backend architecture
+> 💼 Land a meaningful internship where I can build things that matter
+> 🤝 Find 2–3 sharp collaborators who care as much about the product as I do
+> 🌱 Graduate in 2028 with a portfolio that speaks louder than my résumé
 
 ---
 
