@@ -8,7 +8,7 @@
 - [NumuS App](https://github.com/paulsurya/numus_app)
 
 ## ✨Skills i have learned
-- [Python](https://shields.io)
+- ![Python](https://img.shields.io/badge/:badgeContent?logo=python&label=Python%203.12)
   - Flask
   - FastAPI
   - Pandas
