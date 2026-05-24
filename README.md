@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my Git Profile</h1>
+✨<h1 align="center">Welcome to my Git Profile</h1>✨
 
-## My current goals
+## ✨My current goals
 
-## Projects i'm working on
+## ✨Projects i'm working on
 
-## Skills i have learned
+## ✨Skills i have learned
 
-## Hobbies i enjoy
+## ✨Hobbies i enjoy
