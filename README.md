@@ -70,10 +70,6 @@ I build clean, data-driven applications with a love for good design. Currently e
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=paulsurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7ec8f7&icon_color=5dcaa5&text_color=cdd6f4" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulsurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7ec8f7&text_color=cdd6f4" />
-
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=paulsurya&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=7ec8f7&ring=5dcaa5&fire=f0b44a&currStreakLabel=7ec8f7" />
